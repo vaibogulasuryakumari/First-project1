@@ -3,5 +3,5 @@ b=4
 c=a+b
 print c
 temp=c
-d=temp+a
+d=temp+b
 print d
